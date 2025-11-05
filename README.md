@@ -35,7 +35,9 @@ Supporting File: stock_news.csv — additional data used for testing RAG capabil
 
 File	                                                              Description
 stock_news.csv	                                                    Sample dataset of business and stock-related articles
+
 Case_Study_4.docx	                                                  Project documentation and report
+
 Final Copy Mini Project 4.ipynb	                                    Jupyter Notebook implementation
 
 # Technologies Used
